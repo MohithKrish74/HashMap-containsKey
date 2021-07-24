@@ -20,7 +20,7 @@ public class Main
         System.out.println("The Key Value pair is "+map);
         System.out.print("Enter the key to check its presence: ");
         int keys= in.nextInt();
-        System.out.println("Does th  Key "+keys+" present in the HashMap? "+map.containsKey(keys));
+        System.out.println("Does the  Key "+keys+" present in the HashMap? "+map.containsKey(keys));
 
 
     }
